@@ -7,3 +7,6 @@ This project is not used the Database this is only used the (List Array) to stor
 we can add , update , delate the recorde and the BIG Point is that we can disable the any row when we not need to update and delete
 #
 ![alt tag](https://github.com/NABEEL-AHMED-JAMIL/SpringMvc/blob/master/output/Screenshot%20(358).png)
+# UML
+You can see the relationship of the class by useing of the uml design
+

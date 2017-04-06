@@ -1,0 +1,4 @@
+entity Detail{
+date String,
+comment String,
+}

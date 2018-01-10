@@ -9,4 +9,9 @@ we can add , update , delate the recorde and the BIG Point is that we can disabl
 ![alt tag](https://github.com/NABEEL-AHMED-JAMIL/SpringMvc/blob/master/output/Screenshot%20(358).png)
 # UML
 You can see the relationship of the class by useing of the uml design
-
+<br>
+```
+Auth-2 Info
+This is info about the auth-2
+https://github.com/nydiarra/springboot-jwt
+```
